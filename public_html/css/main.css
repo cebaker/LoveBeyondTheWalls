@@ -57,6 +57,7 @@ textarea {
    ========================================================================== */
 
 body {
+    background-image: url(../img/brickwall.jpg);
     font: 16px/26px Helvetica, Helvetica Neue, Arial;
 }
 
@@ -71,6 +72,11 @@ body {
 
 .header-container {
     border-bottom: 20px solid #e44d26;
+}
+.main article{
+    color:white;
+    background: #f16529;
+    border-top: 20px solid #e44d26;
 }
 
 .footer-container,
