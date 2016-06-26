@@ -180,9 +180,9 @@ nav a:hover {
 
     nav a {
         float: left;
-        width: 27%;
+        width: 20%;
         margin: 0 1.7%;
-        padding: 25px 2%;
+        padding: 25px 1%;
         margin-bottom: 0;
     }
 
@@ -199,7 +199,7 @@ nav a:hover {
    ======================== */
 
     nav ul li {
-        display: inline;
+        display: block;
     }
 
     .oldie nav a {
