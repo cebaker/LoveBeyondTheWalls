@@ -1,5 +1,6 @@
 /*! HTML5 Boilerplate v5.0 | MIT License | http://h5bp.com/ */
 
+
 html {
     color: #222;
     font-size: 1em;
@@ -22,7 +23,7 @@ hr {
     border: 0;
     border-top: 1px solid #ccc;
     margin: 1em 0;
-    padding: 0;
+    padding: 0 15px;
 }
 
 audio,
@@ -77,6 +78,7 @@ body {
     color:white;
     background: #f16529;
     border-top: 20px solid #e44d26;
+    padding: 0 10px;
 }
 
 .footer-container,
@@ -135,7 +137,12 @@ nav a:hover {
 }
 
 .main article h1 {
+    
     font-size: 2em;
+}
+
+.main article p{
+    padding: 0 15px;
 }
 
 .main aside {
@@ -250,7 +257,8 @@ nav a:hover {
 
     .main aside {
         float: right;
-        width: 28%;
+        width: 30%;
+        height: 50%;
     }
 }
 
