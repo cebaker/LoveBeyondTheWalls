@@ -76,10 +76,14 @@ body {
 }
 .main article{
     color:white;
-    background: #f16529;
-    border-top: 20px solid #e44d26;
-    padding: 0 10px;
+    background: #f0c77a;
+    border-radius: 0px 10px 10px 10px;
+    -moz-border-radius: 0px 10px 10px 10px;
+    -webkit-border-radius: 0px 10px 10px 10px;
+    border: 5px solid #87742a;
 }
+
+
 
 .footer-container,
 .main aside {
